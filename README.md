@@ -14,3 +14,4 @@
 
 [Aris](./week1/week1-Aris.pdf)
 
+[oyiadin](./week1/oyiadin_week1.pdf)
