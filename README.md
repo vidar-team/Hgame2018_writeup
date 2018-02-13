@@ -8,5 +8,9 @@
 
 #### 优秀writeup
 
+[AWFUL](./week1/AWFUL_Week1.pdf)
 
+[Ch1p](./week1/Ch1p_week1.pdf)
+
+[Aris](./week1/week1-Aris.pdf)
 
