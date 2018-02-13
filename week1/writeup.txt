@@ -1,0 +1,26 @@
+write up
+
+
+
+web1:Are you from Europe? 
+这题不是做出来的，是氪金氪出来的
+
+web3：only robot know where is the flag 
+
+打开网页提示robot，那么就表示有隐藏文件，拿御剑扫一下，发现一个flaaaaaaaag.php，打开提示只有admin能拿flag，联想到cookie伪装成admin，用hackbar把cookie改成admin，拿到flag
+
+web4:tell me what you want
+
+打开网页，在输入框内写flag然后提交发现这是个坏的按钮，提示要post，那么拿hackbar post数据，又提示只有localhost才能看flag，利用fiddle改localhost，又提示需要管理员权限，改cookie为admin，接着提示需要浏览器为icefox57.0，改useragent，提示要从www.google.com访问，修改referrer，得到flag
+
+
+web5：我们不一样
+
+打开网页看发现是post两个数据，这两个数据不能一样，但是strcmp处理后是一样的，提示知识点为php弱类型，post一个数组，一个字符串，get。
+
+
+隐写：白菜2
+用winhex打开，，改文件名为zip，打开，发现txt文件内flag
+
+隐写：pacp1
+wireshark打开，发现一大堆数据包，资源搜索一下，发现了一个flag.php，打开，拿到flag
