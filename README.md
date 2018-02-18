@@ -6,7 +6,7 @@
 
 #### 官方wp
 
-[web1](./week2/official_wp/WEEK2_Crypto&&部分WEBwp.pdf)
+[web1&crypto](./week2/official_wp/WEEK2_Crypto&&部分WEBwp.pdf)
 
 [web2](./week2/official_wp/week2_web_wp.pdf)
 
