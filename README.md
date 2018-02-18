@@ -2,6 +2,28 @@
 
 ---
 
+## week2
+
+#### 官方wp
+
+[web1](./week2/official_wp/WEEK2 Crypto&&部分WEBwp.pdf)
+
+[web2](./week2/official_wp/week2_web_wp.pdf)
+
+[re](./week2/official_wp/Week2_Rev 公式Writeup.pdf)
+
+[pwn](./week2/official_wp/HGAME2018 WEEK2 PWN WP.pdf)
+
+[misc1](./week2/official_wp/week2-misc 部分wp.md)
+
+[misc2](./week2/official_wp/week2 misc3-4 wp.pdf)
+
+#### 优秀writeup
+
+评定中...
+
+---
+
 ## week1
 
 ~~官方wp~~(鸽了
