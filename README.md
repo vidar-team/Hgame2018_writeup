@@ -2,6 +2,20 @@
 
 ---
 
+## week4
+
+### 官方wp
+
+[crypto](./week4/official_wp/week4-crypto.pdf)
+
+[pwn] 出题人只给了exp
+
+[re] 目前只收集到cute_waifu的源码
+
+其他等待出题人下课...
+
+---
+
 ## week3
 
 #### 官方wp
@@ -13,6 +27,8 @@
 [web&crypto](https://github.com/awedxz/hgame2018-/blob/master/WEEK3/week3.pdf)
 
 [pwn](./week3/official_wp/PWN_WEEK3_WP_Official_Release.pdf)
+
+[misc+web150](./week3/official_wp/week3_misc_wp+web150.md)
 
 #### 优秀writeup
 
