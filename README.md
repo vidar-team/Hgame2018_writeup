@@ -8,11 +8,13 @@
 
 [crypto](./week4/official_wp/week4-crypto.pdf)
 
-[pwn] 出题人只给了exp
+[pwn](./week4/official_wp/HGAME_2018_PWN_WEEK4_简略WP.pdf)
 
-[re] 目前只收集到cute_waifu的源码
+[re](./week4/official_wp/rev_week4) <---源码
 
-其他等待出题人下课...
+[web](./week4/official_wp/week4_wp(fantasyqt).pdf)
+
+[个别源码](https://github.com/awedxz/hgame2018-/tree/master/WEEK4)
 
 ---
 
